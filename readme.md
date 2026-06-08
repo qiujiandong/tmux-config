@@ -1,5 +1,12 @@
 Tmux Configuration
 =====================
+
+> [!NOTE]
+> I've started my tmux configuration in my [dotfiles](https://github.com/qiujiandong/dotfiles).
+> From now on, this repo will be archived, and I will only keep it for reference.
+
+---
+
 Tmux configuration, that supercharges your [tmux](https://tmux.github.io/) and builds cozy and cool terminal environment.
 
 ![intro](https://user-images.githubusercontent.com/768858/33152741-ec5f1270-cfe6-11e7-9570-6d17330a83aa.gif)
